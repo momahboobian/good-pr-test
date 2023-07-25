@@ -24,11 +24,7 @@
       }
     ],
     "paths": {
-<<<<<<< HEAD
-      "@/*": [
-=======
       "@*": [
->>>>>>> origin/master
         "./*"
       ]
     }
@@ -38,15 +34,10 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-<<<<<<< HEAD
-    "app/pages/page.js",
-    "app/components/card.js"
-=======
     "pages/page.js",
     "components/Card.js",
     "components/InputForm.jsx",
     "components/FormField.jsx"
->>>>>>> origin/master
   ],
   "exclude": [
     "node_modules"
